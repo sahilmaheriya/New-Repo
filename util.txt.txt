@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a utility Version2 in my software
+=======
+this is a utility Version1 in my software 2
+>>>>>>> e5bf038d10c10604626777a45d7d40ebd77d5bbd
