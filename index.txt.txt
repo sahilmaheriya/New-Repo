@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is Version1 in my software
 this is a index file
+=======
+this is Version1 in my software and this is a index file
+>>>>>>> be1a89aa725bdf8c1d7a5a25abb20fd1d4fcfd75
